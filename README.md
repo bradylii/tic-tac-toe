@@ -9,5 +9,5 @@ Takes user input coordinates.  What row do you want, what col do you want. ... p
  ' ' ' ' 'x'
 
 
-The game should be smart enough to determine if it is a draw or a win.
-Asking for player 1's name and player 2's name will be good.
+The game determines if it is draw or a win.
+
